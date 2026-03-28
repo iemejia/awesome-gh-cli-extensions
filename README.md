@@ -46,6 +46,7 @@ Table of Contents
 - [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 - [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
+- [**pr-todo**](https://github.com/Suree33/gh-pr-todo) - Extract TODO-style comments from pull request diffs.
 - [**profile**](https://github.com/gabe565/gh-profile) - Extension that allows you to use multiple GitHub accounts with the gh cli.
 - [**projects**](https://github.com/github/gh-projects) - Official extension for managing your github projects.
 - [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
