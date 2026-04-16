@@ -32,6 +32,7 @@ Table of Contents
 - [**combine-prs**](https://github.com/rnorth/gh-combine-prs) - An extension for GitHub CLI that combines multiple PRs into one.
 - [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
 - [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+- [**dep-risk**](https://github.com/rad1092/gh-dep-risk) - Extension for on-demand npm dependency pull request risk review.
 - [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
 - [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 - [**get-asset**](https://github.com/chmouel/gh-get-asset) - Fetch an asset (ie: binary) from a GitHub release.
