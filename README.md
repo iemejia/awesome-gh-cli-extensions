@@ -54,6 +54,7 @@ Table of Contents
 - [**sql**](https://github.com/KOBA789/gh-sql) - Query GitHub Projects (beta) with SQL.
 - [**token**](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal.
 - [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
+- [**watch**](https://github.com/justincampbell/gh-watch) - Watch GitHub resources (PRs, commits, branches) for state changes.
 - [**xplr**](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI.
 
 ## GitHub Education
