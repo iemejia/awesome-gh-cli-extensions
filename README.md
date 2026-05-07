@@ -33,6 +33,7 @@ Table of Contents
 - [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 - [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
 - [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+- [**dep-risk**](https://github.com/rad1092/gh-dep-risk) - Extension for on-demand npm dependency pull request risk review.
 - [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
 - [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 - [**get-asset**](https://github.com/chmouel/gh-get-asset) - Fetch an asset (ie: binary) from a GitHub release.
